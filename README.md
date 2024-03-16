@@ -4,7 +4,7 @@ Project performs load test on [local MariaDB](https://github.com/rathorsunpreet/
 
 ## Installation
 
-Download the project from [Github](https://github.com/rathorsunpreet/playwrightTest) and unzip it. Start JMeter and open the .jmx file.
+Download the project from [Github](https://github.com/rathorsunpreet/DB-Check) and unzip it. Start JMeter and open the .jmx file.
 
 ## Usage
 Click on Run to execute tests.
